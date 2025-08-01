@@ -1,2 +1,2 @@
 # InventoryManagementSyestem
-my firts project
+my firts Repository
